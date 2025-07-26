@@ -4,7 +4,9 @@
 
 ## User settings
 xcuserdata/
+Artemis.xcconfig
 .DS_STORE
+
 
 ## Obj-C/Swift specific
 *.hmap

@@ -1,0 +1,4 @@
+// Configuration Template
+
+DEVELOPMENT_TEAM = YOUR_TEAM_ID
+BUNDLE_ID_PREFIX = com.example
